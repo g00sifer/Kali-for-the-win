@@ -8,12 +8,12 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
     <h2>Installation</h2>
     <table class="browserref notranslate">
   <tbody><tr>
-    <th style="width:20%;font-size:16px;text-align:left;">Element</th>
-    <th style="width:16%;" class="Win7" title="Win7"></th><td>Windows 7</td>
-    <th style="width:16%;" class="bsEdge" title="Internet Explorer / Edge"></th>
-    <th style="width:16%;" class="bsFirefox" title="Firefox"></th>
-    <th style="width:16%;" class="bsSafari" title="Safari"></th>
-    <th style="width:16%;" class="bsOpera" title="Opera"></th>
+    <th style="width:20%;font-size:16px;text-align:left;">Windows</th>
+    <td>7</td><th style="width:16%;" class="Win7" title="Win7"></th>
+    <td>8.1</td><th style="width:16%;" class="bsEdge" title="Internet Explorer / Edge"></th>
+    <td>10</td><th style="width:16%;" class="bsFirefox" title="Firefox"></th>
+    <td>11 (leaked)</td><th style="width:16%;" class="bsSafari" title="Safari"></th>
+    <td>Server 2019</td><th style="width:16%;" class="bsOpera" title="Opera"></th>
   </tr><tr>
     <td style="text-align:left;">&lt;ul&gt;</td>
     <td>Yes</td>
