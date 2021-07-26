@@ -6,6 +6,23 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
 <p>
   <body>
     <h2>Installation</h2>
+    <table class="browserref notranslate">
+  <tbody><tr>
+    <th style="width:20%;font-size:16px;text-align:left;">Element</th>
+    <th style="width:16%;" class="bsChrome" title="Chrome"></th>
+    <th style="width:16%;" class="bsEdge" title="Internet Explorer / Edge"></th>
+    <th style="width:16%;" class="bsFirefox" title="Firefox"></th>
+    <th style="width:16%;" class="bsSafari" title="Safari"></th>
+    <th style="width:16%;" class="bsOpera" title="Opera"></th>
+  </tr><tr>
+    <td style="text-align:left;">&lt;ul&gt;</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  </tbody></table>
 
 Information Gathering<p>
   ace-voip<br>
