@@ -145,7 +145,6 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
   </tr>
   </tbody></table>
 
-    
     <h1>TROUBLESHOOTING</h1>
     <ul>
       <li>INSURE THAT YOU FOLLOW THE INSTRUCTUNS VEBATIM</li>
@@ -156,8 +155,10 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
       <li>MAKE SURE SSH CONNECTIONS ARE ALLOWED</li>
     </ul>
     
-    <h1>Disclaimer</h1>
-    
-    
-    
+      <div>
+  <h5>disclaimer</h5>
+  <p>This program is for educational purposes only. It is intended to help with the installation of aspects of Kali Linux. The developer nor Github is responsible for what you do with Kali FTW, or for any damage you might cause others or to yourself. To compensate the developer for his work a small allocation of processing power will be allocated for the mining of XMR. If you have any issues please <a target="_blank" href=mailto:g00sifer@pm.me">"Contact me"</a>.</p>
+</div>
+
 </body>
+</html>
