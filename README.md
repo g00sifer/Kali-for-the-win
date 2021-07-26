@@ -1,4 +1,5 @@
-![Kali](https://user-images.githubusercontent.com/87793505/126964998-8d09c853-d9b5-4d1a-8d27-bb68d6198622.png)
+![Kali](https://user-images.githubusercontent.com/87793505/126965673-6f9c8655-124b-49dc-b727-d9073e6c8dfc.png)
+
 # Kali-FTW-indows
 Kali for the Windows (Kali FTW) is a set of Kali Linux Tools designed to run on Windows 10 and the Leaked Windows 11 OS. 
 
