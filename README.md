@@ -38,8 +38,9 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
    
 </ol>
       
-      
-
+    
+  
+<h1>Kali FTW Includes the following tools</h1> <br> Some functions and features might be slightly different, but there is enough overlap where you can search for the tool online for how to use it specifically
 Information Gathering<p>
   ace-voip<br>
   Amap<br>
