@@ -8,7 +8,7 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
     <h2>Installation</h2>
     <table class="browserref notranslate">
   <tbody><tr>
-       <td style="text-align:left;">&lt;Windows";</td>
+       <td style="text-align:left;">&ltWindows</td>
     <td>Yes</td>
     <td>Yes</td>
     <td>Yes</td>
