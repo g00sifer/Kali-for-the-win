@@ -25,8 +25,8 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
   </tbody></table>
       
  <ol>
-   <li><h3>TURN OFF WINDOWS DEFENDER and OTHER ANTIVIRUS</h3><br> Because this toolkit contains the scrips for various exploits and security utilities Windows will have a stroke when it sees this. Thats okay. Just be sure to either <br>Allow. Allow Allow. And add exceptions. Or... Just turn it off and then back on when you finish. </li>
-   <li>DOWNLOAD REPOSITORY FILES<br> - Do this after disabling your Windows Defender.</li>
+   <li><h4>TURN OFF WINDOWS DEFENDER and OTHER ANTIVIRUS</h4><br> Because this toolkit contains the scrips for various exploits and security utilities Windows will have a stroke when it sees this. Thats okay. Just be sure to either <br>Allow. Allow Allow. And add exceptions. Or... Just turn it off and then back on when you finish. </li>
+   <li><h4>DOWNLOAD REPOSITORY FILES<h4><br> - Do this after disabling your Windows Defender.</li>
    <li>EXTRACT FILES TO C:\USERS\<USERNAME>\KALIFTW<br> This step is self explainatory</li>
    <li>RUN "Kali FTW Install.exe" AS ADMIN<br>... And so is this step.</li>
    <li>OPEN POWERSHELL AS ADMIN<br> Click the Windows Button and Type Powershell. When you find it right click and select Run as Administrator</li>
