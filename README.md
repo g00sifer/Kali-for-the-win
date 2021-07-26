@@ -9,15 +9,15 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
     <table class="browserref notranslate">
   <tbody><tr>
        <td style="text-align:left;">Windows</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr><tr>
-    <td style="text-align:left;">&lt;ul&gt;</td>
-    <td>Yes</td>
-    <td>Yes</td>
+    <td>Vista</td>
+    <td>7</td>
+    <td>8.1</td>
+    <td>10</td>
+    <td>11 (Leaked)</td>
+   <tbody><tr>
+       <td style="text-align:left;">Comp.</td>
+    <td>NO</td>
+    <td>NO</td>
     <td>Yes</td>
     <td>Yes</td>
     <td>Yes</td>
