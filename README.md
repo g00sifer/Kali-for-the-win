@@ -1,12 +1,12 @@
 # Kali-FTW-indows
 Kali for the Windows (Kali FTW) is a set of Kali Linux Tools designed to run on Windows 10 and the Leaked Windows 11 OS. 
 
-Kali for the Windows is a collection of tools for Windows that is designed to replicate several Kali Linux tools via Windows Powershell. This is written specifically for Windows 10 and for the Unreleased Windows 11. This is a pretty straight forward program with a  
+Kali for the Windows is a collection of tools for Windows that is designed to replicate several Kali Linux tools via Windows Powershell. This is written specifically for Windows 10 and for the Unreleased Windows 11. This is a pretty straight forward program with a simple GUI running on top of PowerShell. 
 
-Information Gathering
-  ace-voip
-  Amap
-  APT2
+Information Gathering<p>
+  ace-voip<br>
+  Amap<br>
+  APT2<br>
   arp-scan
   Automater
   bing-ip2hosts
