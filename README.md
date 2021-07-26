@@ -1,3 +1,31 @@
+<html>
+<head>
+<style>
+div {
+  border: 1px solid gray;
+  padding: 8px;
+}
+
+h5 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+
+p {
+  text-indent: 8px;
+  text-align: justify;
+  letter-spacing: 3px;
+  font-size: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #008CBA;
+}
+</style>
+</head>
+
 ![Kali](https://user-images.githubusercontent.com/87793505/126965673-6f9c8655-124b-49dc-b727-d9073e6c8dfc.png)
 
 # Kali-FTW-indows
@@ -117,76 +145,19 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
   </tr>
   </tbody></table>
 
-<h3>Information Gathering</h3><p>
-  ace-voip<br>
-  Amap<br>
-  APT2<br>
-  arp-scan<br>
-  Automater<br>
-  bing-ip2hosts<br>
-  braa<br>
-  CaseFile<br>
-  CDPSnarf<br>
-  
-<h3>Vulnerability Analysis</h3><p>
-  BBQSQL<br>
-  BED<br>
-  cisco-auditing-tool<br>
-  cisco-global-exploiter<br>
-  cisco-ocs <br>
-  cisco-torch<br>
-  copy-router-config<br>
-  SidGuesser<br>
-  SIPArmyKnife<br>
-  sqlmap<br>
-  Sqlninja<br>
-  sqlsus<br>
-  THC-IPV6<br>
-  tnscmd10g<br>
-  Yersinia<br>
-  
-<h3>Exploitation Tools</h3><p>
-  Armitage<br>
-  Backdoor Factory<br>
-  BeEF<br>
-  cisco-auditing-tool<br>
-  cisco-global-exploiter<br>
-  cisco-ocs<br>
-  cisco-torch<br>
-  Commix<br>
-  crackle<br>
-  exploitdb<br>
-  jboss-autopwn<br>
-  Linux Exploit Suggester<br>
-  Maltego Teeth<br>
-  Metasploit Framework<br>
-  MSFPC<br>
-  RouterSploit<br>
-  SET<br>
-  ShellNoob<br>
-  sqlmap<br>
-  THC-IPV6<br>
-  Yersinia<br>
-  
- <h3>Wireless Attacks</h3><p>
-  Airbase-ng<br>
-  Aircrack-ng<br>
-  Airdecap-ng and Airdecloak-ng<br>
-  Aireplay-ng<br>
-  airgraph-ng<br>
-  Airmon-ng<br>
-  Airodump-ng<br>
-  airodump-ng-oui-update<br>
-  Airolib-ng<br>
-  Airserv-ng<br>
-  
-<h3>Web Apps</h3><p>
-  DAVTest<br>
-  deblaze<br>
-  DIRB<br>
-  DirBuster<br>
-  fimap<br>
-  FunkLoad<br>
-  Gobuster<br>
-  
-  </body>
+    
+    <h1>TROUBLESHOOTING</h1>
+    <ul>
+      <li>INSURE THAT YOU FOLLOW THE INSTRUCTUNS VEBATIM</li>
+      <li>KALIFTW CANNOT BE INSTALLED TO AN EXTERNAL DRIVE</li>
+      <li>PC REQUIRES AT LEAST 2 GB OF RAM AND A PROCESSOR AWITH VIRTUALIZATION CAPABILITIES</li>
+      <li>INSURE VIRTUALIZATION IS TURNED ON</li>
+      <li>MAKE SURE ANTI-VIRUS, FIREWALL AND WINDOWS DEFENDER IS OFF</li>
+      <li>MAKE SURE SSH CONNECTIONS ARE ALLOWED</li>
+    </ul>
+    
+    <h1>Disclaimer</h1>
+    
+    
+    
+</body>
