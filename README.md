@@ -1,43 +1,7 @@
-<!DOCTYPE html>
 <html>
 <head>
-<style>
-div {
-  border: 1px solid gray;
-  padding: 8px;
-}
-  
-body {
-  font-size: 100%;
-}
-
-h5 {
-  text-align: center;
-  text-transform: uppercase;
-  color: #4CAF50;
-}
-  
-h4 {
-  text-align: center;
-  text-transform: uppercase;
-  color: 87CEEB;
-}  
-
-p {
-  text-indent: 8px;
-  text-align: justify;
-  letter-spacing: 3px;
-  font-size: 10px;
-}
-
-a {
-  text-decoration: none;
-  color: #008CBA;
-}
-</style>
 </head>
-<body>
-  
+
 # Kali-FTW-indows
  This is written specifically for Windows 10 and for the Unreleased Windows 11. This is a pretty straight forward program with a simple GUI running on top of PowerShell. 
 <p>
