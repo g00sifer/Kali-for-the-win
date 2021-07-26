@@ -41,6 +41,82 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
     
   
 <h1>Kali FTW Includes the following tools</h1> <br> Some functions and features might be slightly different, but there is enough overlap where you can search for the tool online for how to use it specifically<br>
+
+
+  <table class="Kali notranslate">
+  <tbody><tr>
+       <td style="text-align:left;">Information Gathering</td>
+    <td>>Vulnerability Analysis/td>
+    <td>Exploitation Tools</td>
+    <td>Wireless Attacks</td>
+    <td>>Web Apps<</td>
+    
+   <tbody><tr>
+       <td style="text-align:left;">  ace-voip<br>
+  Amap<br>
+  APT2<br>
+  arp-scan<br>
+  Automater<br>
+  bing-ip2hosts<br>
+  braa<br>
+  CaseFile<br>
+  CDPSnarf<br></td>
+    <td> BBQSQL<br>
+  BED<br>
+  cisco-auditing-tool<br>
+  cisco-global-exploiter<br>
+  cisco-ocs <br>
+  cisco-torch<br>
+  copy-router-config<br>
+  SidGuesser<br>
+  SIPArmyKnife<br>
+  sqlmap<br>
+  Sqlninja<br>
+  sqlsus<br>
+  THC-IPV6<br>
+  tnscmd10g<br>
+  Yersinia<br></td>
+    <td>  Armitage<br>
+  Backdoor Factory<br>
+  BeEF<br>
+  cisco-auditing-tool<br>
+  cisco-global-exploiter<br>
+  cisco-ocs<br>
+  cisco-torch<br>
+  Commix<br>
+  crackle<br>
+  exploitdb<br>
+  jboss-autopwn<br>
+  Linux Exploit Suggester<br>
+  Maltego Teeth<br>
+  Metasploit Framework<br>
+  MSFPC<br>
+  RouterSploit<br>
+  SET<br>
+  ShellNoob<br>
+  sqlmap<br>
+  THC-IPV6<br>
+  Yersinia<br></td>
+    <td> Airbase-ng<br>
+  Aircrack-ng<br>
+  Airdecap-ng and Airdecloak-ng<br>
+  Aireplay-ng<br>
+  airgraph-ng<br>
+  Airmon-ng<br>
+  Airodump-ng<br>
+  airodump-ng-oui-update<br>
+  Airolib-ng<br>
+  Airserv-ng<br></td>
+    <td> DAVTest<br>
+  deblaze<br>
+  DIRB<br>
+  DirBuster<br>
+  fimap<br>
+  FunkLoad<br>
+  Gobuster<br></td>
+  </tr>
+  </tbody></table>
+
 <h3>Information Gathering</h3><p>
   ace-voip<br>
   Amap<br>
