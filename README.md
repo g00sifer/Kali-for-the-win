@@ -40,8 +40,8 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
       
     
   
-<h1>Kali FTW Includes the following tools</h1> <br> Some functions and features might be slightly different, but there is enough overlap where you can search for the tool online for how to use it specifically
-Information Gathering<p>
+<h1>Kali FTW Includes the following tools</h1> <br> Some functions and features might be slightly different, but there is enough overlap where you can search for the tool online for how to use it specifically<br>
+<h3>Information Gathering</h3><p>
   ace-voip<br>
   Amap<br>
   APT2<br>
@@ -52,7 +52,7 @@ Information Gathering<p>
   CaseFile<br>
   CDPSnarf<br>
   
-Vulnerability Analysis<p>
+<h3>Vulnerability Analysis</h3><p>
   BBQSQL<br>
   BED<br>
   cisco-auditing-tool<br>
@@ -69,7 +69,7 @@ Vulnerability Analysis<p>
   tnscmd10g<br>
   Yersinia<br>
   
-Exploitation Tools<p>
+<h3>Exploitation Tools</h3><p>
   Armitage<br>
   Backdoor Factory<br>
   BeEF<br>
@@ -92,7 +92,7 @@ Exploitation Tools<p>
   THC-IPV6<br>
   Yersinia<br>
   
- Wireless Attacks<p>
+ <h3>Wireless Attacks</h3><p>
   Airbase-ng<br>
   Aircrack-ng<br>
   Airdecap-ng and Airdecloak-ng<br>
@@ -104,7 +104,7 @@ Exploitation Tools<p>
   Airolib-ng<br>
   Airserv-ng<br>
   
-Web Apps<p>
+<h3>Web Apps</h3><p>
   DAVTest<br>
   deblaze<br>
   DIRB<br>
