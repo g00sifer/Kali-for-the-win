@@ -24,10 +24,17 @@ Kali for the Windows is a collection of tools for Windows that is designed to re
   </tr>
   </tbody></table>
       
-      <ol>
-        <li><h3> Download this repository </h3></li>
-        
-      </ol>
+ <ol>
+   <li>TURN OFF WINDOWS DEFENDER and OTHER ANTIVIRUS<br> Because this toolkit contains the scrips for various exploits and security utilities Windows will have a stroke when it sees this. Thats okay. Just be sure to either <br>Allow. Allow Allow. And add exceptions. Or... Just turn it off and then back on when you finish. </li>
+   <li>DOWNLOAD REPOSITORY FILES<br> - Do this after disabling your Windows Defender.</li>
+   <li>EXTRACT FILES TO C:\USERS\<USERNAME>\KALIFTW<br> This step is self explainatory</li>
+   <li>RUN "Kali FTW Install.exe" AS ADMIN<br>... And so is this step.</li>
+   <li>OPEN POWERSHELL AS ADMIN<br> Click the Windows Button and Type Powershell. When you find it right click and select Run as Administrator</li>
+   <li>INSTALL PYTHON (IF NOT ALREADY INSTALLED)<br> These tools require Python3</li>
+   <li>REBOOT PC AND ENABLE VIRTUALIZATION<br> Be sure to turn on Virtualization</li>
+   <li>GO TO C:\USERS\<USERNAME>\KALIFTW AND RUN "KALIFTW"<br> Now go back to the install folder and open the KaliFTW Application. \</li>
+   
+</ol>
       
       
 
