@@ -19,6 +19,17 @@
    <li><h4>REBOOT PC AND ENABLE VIRTUALIZATION</h4><br> Be sure to turn on Virtualization</li>
    <li><h4>GO TO C:\USERS\<USERNAME>\KALIFTW AND RUN "KALIFTW"</h4><br> Now go back to the install folder and open the KaliFTW Application. \</li>
 </ol>
+ 
+ 
+<h1>TROUBLESHOOTING</h1>
+<ul>
+   <li>INSURE THAT YOU FOLLOW THE INSTRUCTUNS VEBATIM</li>
+   <li>KALIFTW CANNOT BE INSTALLED TO AN EXTERNAL DRIVE</li>
+   <li>PC REQUIRES AT LEAST 2 GB OF RAM AND A PROCESSOR AWITH VIRTUALIZATION CAPABILITIES</li>
+   <li>INSURE VIRTUALIZATION IS TURNED ON</li>
+   <li>MAKE SURE ANTI-VIRUS, FIREWALL AND WINDOWS DEFENDER IS OFF</li>
+   <li>MAKE SURE SSH CONNECTIONS ARE ALLOWED</li>
+</ul>
     
 <h1>Kali FTW Includes the following tools</h1> <br> Some functions and features might be slightly different, but there is enough overlap where you can search for the tool online for how to use it specifically<br>
 
@@ -97,15 +108,6 @@
   </tr>
   </tbody></table>
 
-    <h1>TROUBLESHOOTING</h1>
-    <ul>
-      <li>INSURE THAT YOU FOLLOW THE INSTRUCTUNS VEBATIM</li>
-      <li>KALIFTW CANNOT BE INSTALLED TO AN EXTERNAL DRIVE</li>
-      <li>PC REQUIRES AT LEAST 2 GB OF RAM AND A PROCESSOR AWITH VIRTUALIZATION CAPABILITIES</li>
-      <li>INSURE VIRTUALIZATION IS TURNED ON</li>
-      <li>MAKE SURE ANTI-VIRUS, FIREWALL AND WINDOWS DEFENDER IS OFF</li>
-      <li>MAKE SURE SSH CONNECTIONS ARE ALLOWED</li>
-    </ul>
       
   <div>
   <h5>disclaimer</h5>
